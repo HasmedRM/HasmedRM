@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Ryan!
 
-<a target="_blank" href="ww.linkedin.com/in/ryan-macedo-gomes-327244310"> 
+<a target="_blank" href="https://www.linkedin.com/in/ryan-macedo-gomes-327244310/"> 
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 </a> 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5585998217880"> 
