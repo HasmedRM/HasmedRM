@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Ryan!
+## 👋 Olá, eu sou o Ryan!
 
 <a target="_blank" href="https://www.linkedin.com/in/ryan-macedo-gomes-327244310/"> 
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
