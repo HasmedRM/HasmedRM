@@ -16,7 +16,7 @@
 
 ----
 
-Olá! Me chamo Ryan Macedo Gomes e tive meu primeiro contato com programação em 2020, durante o curso técnico de Redes de Computadores no SENAI. Lá, comecei a estudar lógica de programação e estruturas de dados, além de ter experiências com linguagens como Java e Python ainda no ensino médio. Nesse mesmo período, também aprendi tecnologias voltadas ao desenvolvimento web, como HTML, CSS e JavaScript.
+Olá! Me chamo Ryan Macedo Gomes e tive meu primeiro contato com programação em 2020, durante o curso técnico de Redes de Computadores no SENAI. Lá, comecei a estudar lógica de programação e estruturas de dados, além de ter experiências com linguagens como C e Python ainda no ensino médio. Nesse mesmo período, também aprendi tecnologias voltadas ao desenvolvimento web, como HTML, CSS e JavaScript.
 
 Atualmente, sou estudante de Ciência da Computação no Instituto Federal do Ceará (IFCE) e atuo como estagiário na empresa EvoluTI, com foco em Gestão de Projetos e Qualidade de Software. No meu dia a dia:
 Apoio a organização de sprints e reuniões ágeis (Scrum e Kanban), Faço controle de tarefas utilizando o Jira, Realizo consultas em MySQL para geração de relatórios, Auxilio na execução de testes funcionais e de aceitação (QA), contribuindo para a qualidade das entregas e Participo de melhorias contínuas em projetos web e mobile desenvolvidos com React e React Native.
